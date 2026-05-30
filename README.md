@@ -2,6 +2,9 @@
 
 Backend API for managing hotel rooms, reservations, payments, and customer authentication using JWT.
 
+## Author
+** Omar Mahmoud Sanad **
+
 ## Technologies
 - ASP .Net Core Web API
 - Entity Framework Core (Code First)
