@@ -1,0 +1,22 @@
+﻿[
+  {
+    "CheckInDate": "2026-06-01",
+    "CheckOutDate": "2026-06-05",
+    "BookingDate": "2026-05-20",
+    "TotalPrice": 8000,
+    "ReservationStatus": "Confirmed",
+    "PaymentStatus": "Paid",
+    "CustomerID": 1,
+    "RoomID": 2
+  },
+  {
+    "CheckInDate": "2026-06-10",
+    "CheckOutDate": "2026-06-12",
+    "BookingDate": "2026-05-21",
+    "TotalPrice": 9000,
+    "ReservationStatus": "Pending",
+    "PaymentStatus": "Pending",
+    "CustomerID": 2,
+    "RoomID": 3
+  }
+]

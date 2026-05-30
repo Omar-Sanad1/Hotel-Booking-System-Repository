@@ -1,0 +1,16 @@
+﻿[
+  {
+    "RatingValue": 5,
+    "Comment": "Amazing room and excellent service.",
+    "ReviewDate": "2026-05-18",
+    "CustomerID": 1,
+    "RoomID": 2
+  },
+  {
+    "RatingValue": 4,
+    "Comment": "Very clean room with nice view.",
+    "ReviewDate": "2026-05-19",
+    "CustomerID": 2,
+    "RoomID": 3
+  }
+]

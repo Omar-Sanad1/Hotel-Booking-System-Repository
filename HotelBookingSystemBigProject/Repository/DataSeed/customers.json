@@ -1,0 +1,58 @@
+﻿[
+  {
+    "FullName": "Omar Mohamed",
+    "EmailAddress": "omar@gmail.com",
+    "PhoneNumber": "01012345678",
+    "PasswordHash": "hashedpassword1",
+    "AccountStatus": "Active"
+  },
+  {
+    "FullName": "Ahmed Ali",
+    "EmailAddress": "ahmed@gmail.com",
+    "PhoneNumber": "01198765432",
+    "PasswordHash": "hashedpassword2",
+    "AccountStatus": "Active"
+  },
+  {
+    "FullName": "Sara Hassan",
+    "EmailAddress": "sara@gmail.com",
+    "PhoneNumber": "01234567890",
+    "PasswordHash": "hashedpassword3",
+    "AccountStatus": "Active"
+  },
+  {
+    "FullName": "Mariam Adel",
+    "EmailAddress": "mariam@gmail.com",
+    "PhoneNumber": "01555555555",
+    "PasswordHash": "hashedpassword4",
+    "AccountStatus": "Inactive"
+  },
+  {
+    "FullName": "Youssef Khaled",
+    "EmailAddress": "youssef@gmail.com",
+    "PhoneNumber": "01077777777",
+    "PasswordHash": "hashedpassword5",
+    "AccountStatus": "Active"
+  },
+  {
+    "FullName": "Nour Emad",
+    "EmailAddress": "nour@gmail.com",
+    "PhoneNumber": "01122222222",
+    "PasswordHash": "hashedpassword6",
+    "AccountStatus": "Blocked"
+  },
+  {
+    "FullName": "Mostafa Samir",
+    "EmailAddress": "mostafa@gmail.com",
+    "PhoneNumber": "01299999999",
+    "PasswordHash": "hashedpassword7",
+    "AccountStatus": "Active"
+  },
+  {
+    "FullName": "Laila Fathy",
+    "EmailAddress": "laila@gmail.com",
+    "PhoneNumber": "01511111111",
+    "PasswordHash": "hashedpassword8",
+    "AccountStatus": "Active"
+  }
+]

@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Number": "101",
+    "Type": "Single",
+    "Capacity": 1,
+    "PricePerNight": 1200,
+    "FloorNumber": 1,
+    "AvailabilityStatus": "Available",
+    "ImageUrl": "images/rooms/single-room-101.jpg",
+    "HotelID": 1
+  },
+  {
+    "Number": "102",
+    "Type": "Double",
+    "Capacity": 2,
+    "PricePerNight": 2000,
+    "FloorNumber": 1,
+    "AvailabilityStatus": "Reserved",
+    "ImageUrl": "images/rooms/double-room-102.jpg",
+    "HotelID": 1
+  },
+  {
+    "Number": "201",
+    "Type": "Suite",
+    "Capacity": 4,
+    "PricePerNight": 4500,
+    "FloorNumber": 2,
+    "AvailabilityStatus": "Available",
+    "ImageUrl": "images/rooms/suite-room-201.jpg",
+    "HotelID": 2
+  }
+]

@@ -1,0 +1,16 @@
+﻿[
+  {
+    "Name": "Grand Cairo Hotel",
+    "Location": "Cairo, Egypt",
+    "Rating": 4.7,
+    "Description": "Luxury hotel in downtown Cairo.",
+    "ContactInformation": "grandcairo@gmail.com"
+  },
+  {
+    "Name": "Alex Sea View",
+    "Location": "Alexandria, Egypt",
+    "Rating": 4.3,
+    "Description": "Beautiful sea view hotel.",
+    "ContactInformation": "alexview@gmail.com"
+  }
+]

@@ -1,0 +1,9 @@
+﻿[
+  {
+    "PaymentDate": "2026-05-20",
+    "PaymentMethod": "Credit Card",
+    "PaymentAmount": 8000,
+    "PaymentStatus": "Completed",
+    "ReservationID": 1
+  }
+]
