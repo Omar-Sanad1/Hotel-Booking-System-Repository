@@ -26,6 +26,7 @@ Backend API for managing hotel rooms, reservations, payments, and customer authe
 - Payment Management
 - Room Reviews & Ratings
 - Customer Account Management
+- Data Seeding
 
 ## Architecture
 - Onion Architecture :
